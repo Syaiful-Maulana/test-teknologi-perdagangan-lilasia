@@ -50,6 +50,6 @@ Make sure you have the following installed on your machine:
 
 Berikut dokumentasi api setelah api dijalankan
 
-    ```bash
-    https://documenter.getpostman.com/view/13146980/2sA3rxqDkx
-    ```
+```bash
+https://documenter.getpostman.com/view/13146980/2sA3rxqDkx
+```
